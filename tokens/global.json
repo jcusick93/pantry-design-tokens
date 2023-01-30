@@ -716,23 +716,5 @@
         }
       }
     }
-  },
-  "shadow": {
-    "100": {
-      "bottom": {
-        "value": "box-shadow: 0px 2px 2px 0px",
-        "type": "boxShadow"
-      }
-    },
-    "test": {
-      "value": "0px 2px 2px 0px",
-      "type": "other"
-    }
-  },
-  "dsadsadsa": {
-    "value": {
-      "sizing": "2"
-    },
-    "type": "composition"
   }
 }
