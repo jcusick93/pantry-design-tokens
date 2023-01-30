@@ -271,21 +271,21 @@
       },
       "type": "typography"
     },
-    "S": {
-      "value": {
-        "fontFamily": "{pds.global.font.family.poppins}",
-        "fontWeight": "{pds.global.font.weight.500}",
-        "lineHeight": "{pds.global.font.line_height.100}",
-        "fontSize": "{pds.global.font.size.400}"
-      },
-      "type": "typography"
-    },
     "XS": {
       "value": {
         "fontFamily": "{pds.global.font.family.poppins}",
         "fontWeight": "{pds.global.font.weight.500}",
         "lineHeight": "{pds.global.font.line_height.100}",
         "fontSize": "{pds.global.font.size.300}"
+      },
+      "type": "typography"
+    },
+    "S": {
+      "value": {
+        "fontFamily": "{pds.global.font.family.poppins}",
+        "fontWeight": "{pds.global.font.weight.500}",
+        "lineHeight": "{pds.global.font.line_height.100}",
+        "fontSize": "{pds.global.font.size.400}"
       },
       "type": "typography"
     },
