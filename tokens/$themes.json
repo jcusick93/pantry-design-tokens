@@ -597,7 +597,8 @@
       "theme.shadow.high.bottom": "S:975e46d25e0398315b5593b41da4e82c0aa7b96d,",
       "theme.shadow.high.left": "S:af522604e111c03822e7916576e5cf6a309de954,",
       "theme.shadow.high.right": "S:ef46789553bbd060fc9d7735c0952b837a5616bd,",
-      "shadow.100.bottom": "S:7173e1a2fd19a7cd17a6238604e1da43321588bc,"
+      "shadow.100.bottom": "S:7173e1a2fd19a7cd17a6238604e1da43321588bc,",
+      "pds.theme.color.outline.neutral_high_inverse": "S:dba8f41a5dfd2f09d49126b02cc1716915397480,"
     }
   }
 ]
