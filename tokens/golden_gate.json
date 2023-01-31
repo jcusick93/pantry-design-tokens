@@ -157,6 +157,10 @@
             "value": "{pds.global.color.general.grey.90}",
             "type": "color"
           },
+          "neutral_high_inverse": {
+            "value": "{pds.global.color.general.white.a100}",
+            "type": "color"
+          },
           "neutral_medium": {
             "value": "{pds.global.color.general.grey.70}",
             "type": "color"
