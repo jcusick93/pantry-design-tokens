@@ -598,7 +598,15 @@
       "theme.shadow.high.left": "S:af522604e111c03822e7916576e5cf6a309de954,",
       "theme.shadow.high.right": "S:ef46789553bbd060fc9d7735c0952b837a5616bd,",
       "shadow.100.bottom": "S:7173e1a2fd19a7cd17a6238604e1da43321588bc,",
-      "pds.theme.color.outline.neutral_high_inverse": "S:dba8f41a5dfd2f09d49126b02cc1716915397480,"
+      "pds.theme.color.outline.neutral_high_inverse": "S:dba8f41a5dfd2f09d49126b02cc1716915397480,",
+      "pds.theme.shadow.lowest.bottom": "S:925537b8f8a925e62bf860e9652b2efb0f25f633,",
+      "pds.theme.shadow.low.top": "S:fe871e671c4e49a732628f753c80a9296b26bede,",
+      "pds.theme.shadow.low.bottom": "S:7ef4d016d7807bf289dddb08a859e558910cef31,",
+      "pds.theme.shadow.medium.bottom": "S:2948dfa7596577ea4d0f29b53cd069972c48cd5d,",
+      "pds.theme.shadow.high.top": "S:f724038c80d4d704b6344d80ec45678526654de4,",
+      "pds.theme.shadow.high.bottom": "S:3d5ff229a6ca9b700bf023c142437b3b0c05598b,",
+      "pds.theme.shadow.high.left": "S:92bd80e66a8f71b2580b904999cf0b2c4a0f4a9a,",
+      "pds.theme.shadow.high.right": "S:abcf9e7cd92a8bda44206fbaf1ea04a6e3897425,"
     }
   }
 ]
