@@ -190,113 +190,111 @@
             "type": "color"
           }
         }
-      }
-    }
-  },
-  "theme": {
-    "shadow": {
-      "lowest": {
-        "bottom": {
-          "value": {
-            "x": "0",
-            "y": "2",
-            "blur": "2",
-            "spread": "0",
-            "color": "{pds.global.color.general.black.a20}",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow",
-          "description": "buttons, cards"
-        }
       },
-      "low": {
-        "top": {
-          "value": {
-            "x": "0",
-            "y": "-4",
-            "blur": "8",
-            "spread": "0",
-            "color": "{pds.global.color.general.black.a20}",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow",
-          "description": "bottom bar"
+      "shadow": {
+        "lowest": {
+          "bottom": {
+            "value": {
+              "x": "0",
+              "y": "2",
+              "blur": "2",
+              "spread": "0",
+              "color": "{pds.global.color.general.black.a20}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "buttons, cards"
+          }
         },
-        "bottom": {
-          "value": {
-            "x": "0",
-            "y": "4",
-            "blur": "8",
-            "spread": "0",
-            "color": "{pds.global.color.general.black.a20}",
-            "type": "dropShadow"
+        "low": {
+          "top": {
+            "value": {
+              "x": "0",
+              "y": "-4",
+              "blur": "8",
+              "spread": "0",
+              "color": "{pds.global.color.general.black.a20}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "bottom bar"
           },
-          "type": "boxShadow",
-          "description": "top bar"
-        }
-      },
-      "medium": {
-        "bottom": {
-          "value": {
-            "x": "0",
-            "y": "8",
-            "blur": "12",
-            "spread": "0",
-            "color": "{pds.global.color.general.black.a20}",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow",
-          "description": "toast, tooltip, dropdown "
-        }
-      },
-      "high": {
-        "top": {
-          "value": {
-            "x": "0",
-            "y": "-12",
-            "blur": "24",
-            "spread": "0",
-            "color": "{pds.global.color.general.black.a20}",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow",
-          "description": "Sheets"
+          "bottom": {
+            "value": {
+              "x": "0",
+              "y": "4",
+              "blur": "8",
+              "spread": "0",
+              "color": "{pds.global.color.general.black.a20}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "top bar"
+          }
         },
-        "bottom": {
-          "value": {
-            "x": "0",
-            "y": "12",
-            "blur": "24",
-            "spread": "0",
-            "color": "{pds.global.color.general.black.a20}",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow",
-          "description": "modal (web)"
+        "medium": {
+          "bottom": {
+            "value": {
+              "x": "0",
+              "y": "8",
+              "blur": "12",
+              "spread": "0",
+              "color": "{pds.global.color.general.black.a20}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "toast, tooltip, dropdown "
+          }
         },
-        "left": {
-          "value": {
-            "x": "-12",
-            "y": "0",
-            "blur": "24",
-            "spread": "0",
-            "color": "{pds.global.color.general.black.a20}",
-            "type": "dropShadow"
+        "high": {
+          "top": {
+            "value": {
+              "x": "0",
+              "y": "-12",
+              "blur": "24",
+              "spread": "0",
+              "color": "{pds.global.color.general.black.a20}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "Sheets"
           },
-          "type": "boxShadow",
-          "description": "drawer"
-        },
-        "right": {
-          "value": {
-            "x": "12",
-            "y": "0",
-            "blur": "24",
-            "spread": "0",
-            "color": "{pds.global.color.general.black.a20}",
-            "type": "dropShadow"
+          "bottom": {
+            "value": {
+              "x": "0",
+              "y": "12",
+              "blur": "24",
+              "spread": "0",
+              "color": "{pds.global.color.general.black.a20}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "modal (web)"
           },
-          "type": "boxShadow",
-          "description": "drawer"
+          "left": {
+            "value": {
+              "x": "-12",
+              "y": "0",
+              "blur": "24",
+              "spread": "0",
+              "color": "{pds.global.color.general.black.a20}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "drawer"
+          },
+          "right": {
+            "value": {
+              "x": "12",
+              "y": "0",
+              "blur": "24",
+              "spread": "0",
+              "color": "{pds.global.color.general.black.a20}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "drawer"
+          }
         }
       }
     }
