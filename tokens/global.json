@@ -714,6 +714,24 @@
             "type": "fontSizes"
           }
         }
+      },
+      "size": {
+        "4": {
+          "value": "4px",
+          "type": "sizing"
+        },
+        "12": {
+          "value": "12px",
+          "type": "sizing"
+        },
+        "16": {
+          "value": "16px",
+          "type": "sizing"
+        },
+        "9999": {
+          "value": "9999px",
+          "type": "sizing"
+        }
       }
     }
   }

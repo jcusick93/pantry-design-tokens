@@ -207,18 +207,6 @@
           }
         },
         "low": {
-          "top": {
-            "value": {
-              "x": "0",
-              "y": "-4",
-              "blur": "8",
-              "spread": "0",
-              "color": "{pds.global.color.general.black.a20}",
-              "type": "dropShadow"
-            },
-            "type": "boxShadow",
-            "description": "bottom bar"
-          },
           "bottom": {
             "value": {
               "x": "0",
@@ -295,6 +283,24 @@
             "type": "boxShadow",
             "description": "drawer"
           }
+        }
+      },
+      "border_radius": {
+        "small": {
+          "value": "{pds.global.size.4}",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{pds.global.size.12}",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{pds.global.size.16}",
+          "type": "borderRadius"
+        },
+        "full": {
+          "value": "{pds.global.size.9999}",
+          "type": "borderRadius"
         }
       }
     }
