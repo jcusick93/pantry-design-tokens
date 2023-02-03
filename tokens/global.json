@@ -715,22 +715,22 @@
           }
         }
       },
-      "size": {
+      "border_radius": {
         "4": {
           "value": "4px",
-          "type": "sizing"
+          "type": "borderRadius"
         },
         "12": {
           "value": "12px",
-          "type": "sizing"
+          "type": "borderRadius"
         },
         "16": {
           "value": "16px",
-          "type": "sizing"
+          "type": "borderRadius"
         },
         "9999": {
           "value": "9999px",
-          "type": "sizing"
+          "type": "borderRadius"
         }
       }
     }

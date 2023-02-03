@@ -287,19 +287,19 @@
       },
       "border_radius": {
         "small": {
-          "value": "{pds.global.size.4}",
+          "value": "{pds.global.border_radius.4}",
           "type": "borderRadius"
         },
         "medium": {
-          "value": "{pds.global.size.12}",
+          "value": "{pds.global.border_radius.12}",
           "type": "borderRadius"
         },
         "large": {
-          "value": "{pds.global.size.16}",
+          "value": "{pds.global.border_radius.16}",
           "type": "borderRadius"
         },
         "full": {
-          "value": "{pds.global.size.9999}",
+          "value": "{pds.global.border_radius.9999}",
           "type": "borderRadius"
         }
       }
