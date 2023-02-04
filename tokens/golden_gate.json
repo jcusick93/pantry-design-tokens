@@ -226,7 +226,7 @@
               "blur": "12",
               "spread": "0",
               "color": "{pds.global.color.general.black.a10}",
-              "type": "innerShadow"
+              "type": "dropShadow"
             },
             "type": "boxShadow",
             "description": "Bottom nav bar, fixed buttons"
