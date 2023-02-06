@@ -17,10 +17,6 @@
         "disabled": {
           "value": "{pds.global.opacity.50}",
           "type": "opacity"
-        },
-        "selected": {
-          "value": "{pds.global.opacity.5}",
-          "type": "opacity"
         }
       },
       "color": {
