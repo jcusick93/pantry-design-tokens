@@ -294,6 +294,10 @@
         }
       },
       "border_radius": {
+        "none": {
+          "value": "{pds.global.border_radius.0}",
+          "type": "borderRadius"
+        },
         "small": {
           "value": "{pds.global.border_radius.4}",
           "type": "borderRadius"

@@ -716,6 +716,10 @@
         }
       },
       "border_radius": {
+        "0": {
+          "value": "0px",
+          "type": "borderRadius"
+        },
         "4": {
           "value": "4px",
           "type": "borderRadius"
