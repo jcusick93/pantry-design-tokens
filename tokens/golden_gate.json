@@ -191,10 +191,10 @@
         "lowest": {
           "bottom": {
             "value": {
-              "x": "0",
-              "y": "2",
-              "blur": "6",
-              "spread": "0",
+              "x": "{pds.global.shadow.100.bottom.x}",
+              "y": "{pds.global.shadow.100.bottom.y}",
+              "blur": "{pds.global.shadow.100.bottom.blur}",
+              "spread": "{pds.global.shadow.100.bottom.spread}",
               "color": "{pds.global.color.general.black.a10}",
               "type": "dropShadow"
             },
@@ -205,10 +205,10 @@
         "low": {
           "bottom": {
             "value": {
-              "x": "0",
-              "y": "2",
-              "blur": "12",
-              "spread": "0",
+              "x": "{pds.global.shadow.200.bottom.x}",
+              "y": "{pds.global.shadow.200.bottom.y}",
+              "blur": "{pds.global.shadow.200.bottom.blur}",
+              "spread": "{pds.global.shadow.200.bottom.spread}",
               "color": "{pds.global.color.general.black.a10}",
               "type": "dropShadow"
             },
@@ -217,10 +217,10 @@
           },
           "top": {
             "value": {
-              "x": "0",
-              "y": "-2",
-              "blur": "12",
-              "spread": "0",
+              "x": "{pds.global.shadow.200.top.x}",
+              "y": "{pds.global.shadow.200.top.y}",
+              "blur": "{pds.global.shadow.200.top.blur}",
+              "spread": "{pds.global.shadow.200.top.spread}",
               "color": "{pds.global.color.general.black.a10}",
               "type": "dropShadow"
             },
@@ -231,10 +231,10 @@
         "medium": {
           "bottom": {
             "value": {
-              "x": "0",
-              "y": "4",
-              "blur": "16",
-              "spread": "0",
+              "x": "{pds.global.shadow.300.bottom.x}",
+              "y": "{pds.global.shadow.300.bottom.y}",
+              "blur": "{pds.global.shadow.300.bottom.blur}",
+              "spread": "{pds.global.shadow.300.bottom.spread}",
               "color": "{pds.global.color.general.black.a10}",
               "type": "dropShadow"
             },
@@ -243,36 +243,36 @@
           }
         },
         "high": {
-          "top": {
-            "value": {
-              "x": "0",
-              "y": "-8",
-              "blur": "24",
-              "spread": "0",
-              "color": "{pds.global.color.general.black.a10}",
-              "type": "dropShadow"
-            },
-            "type": "boxShadow",
-            "description": "Sheets"
-          },
           "bottom": {
             "value": {
-              "x": "0",
-              "y": "8",
-              "blur": "24",
-              "spread": "0",
+              "x": "{pds.global.shadow.400.bottom.x}",
+              "y": "{pds.global.shadow.400.bottom.y}",
+              "blur": "{pds.global.shadow.400.bottom.blur}",
+              "spread": "{pds.global.shadow.400.bottom.spread}",
               "color": "{pds.global.color.general.black.a10}",
               "type": "dropShadow"
             },
             "type": "boxShadow",
             "description": "modal (web)"
           },
+          "top": {
+            "value": {
+              "x": "{pds.global.shadow.400.top.x}",
+              "y": "{pds.global.shadow.400.top.y}",
+              "blur": "{pds.global.shadow.400.top.blur}",
+              "spread": "{pds.global.shadow.400.top.spread}",
+              "color": "{pds.global.color.general.black.a10}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "Sheets"
+          },
           "left": {
             "value": {
-              "x": "-8",
-              "y": "0",
-              "blur": "24",
-              "spread": "0",
+              "x": "{pds.global.shadow.400.left.x}",
+              "y": "{pds.global.shadow.400.left.y}",
+              "blur": "{pds.global.shadow.400.left.blur}",
+              "spread": "{pds.global.shadow.400.left.spread}",
               "color": "{pds.global.color.general.black.a10}",
               "type": "dropShadow"
             },
@@ -281,10 +281,10 @@
           },
           "right": {
             "value": {
-              "x": "8",
-              "y": "0",
-              "blur": "24",
-              "spread": "0",
+              "x": "{pds.global.shadow.400.right.x}",
+              "y": "{pds.global.shadow.400.right.y}",
+              "blur": "{pds.global.shadow.400.right.blur}",
+              "spread": "{pds.global.shadow.400.right.spread}",
               "color": "{pds.global.color.general.black.a10}",
               "type": "dropShadow"
             },
