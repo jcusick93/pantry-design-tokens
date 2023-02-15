@@ -5,8 +5,7 @@
     "selectedTokenSets": {
       "global": "enabled",
       "golden_gate": "enabled",
-      "component": "enabled",
-      "sutro": "disabled"
+      "component": "enabled"
     },
     "$figmaStyleReferences": {
       "color.button.filled.background.default": "S:b7e0aaa2afcadae5d7780bccf2b9dfb04c6b282c,",
