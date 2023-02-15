@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "global",
     "golden_gate",
+    "sutro",
     "component"
   ]
 }
