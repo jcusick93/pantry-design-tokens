@@ -5,7 +5,8 @@
     "selectedTokenSets": {
       "global": "enabled",
       "golden_gate": "enabled",
-      "component": "enabled"
+      "component": "enabled",
+      "sutro": "disabled"
     },
     "$figmaStyleReferences": {
       "color.button.filled.background.default": "S:b7e0aaa2afcadae5d7780bccf2b9dfb04c6b282c,",
@@ -607,5 +608,15 @@
       "pds.theme.shadow.high.left": "S:92bd80e66a8f71b2580b904999cf0b2c4a0f4a9a,",
       "pds.theme.shadow.high.right": "S:abcf9e7cd92a8bda44206fbaf1ea04a6e3897425,"
     }
+  },
+  {
+    "id": "4592d65154e968859644ebd44ab9637161e1868a",
+    "name": "Sutro",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "component": "enabled",
+      "sutro": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
