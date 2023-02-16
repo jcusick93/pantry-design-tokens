@@ -617,5 +617,15 @@
       "sutro": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b5ef7f75906870123bf26783b91c86a01707cd1e",
+    "name": "Fort Point",
+    "selectedTokenSets": {
+      "component": "enabled",
+      "fort_point": "enabled",
+      "global": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
