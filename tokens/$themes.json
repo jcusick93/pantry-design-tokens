@@ -5,9 +5,7 @@
     "selectedTokenSets": {
       "global": "enabled",
       "golden_gate": "enabled",
-      "component": "enabled",
-      "presidio": "disabled",
-      "baker": "disabled"
+      "component": "enabled"
     },
     "$figmaStyleReferences": {
       "color.button.filled.background.default": "S:b7e0aaa2afcadae5d7780bccf2b9dfb04c6b282c,",
@@ -616,9 +614,7 @@
     "selectedTokenSets": {
       "global": "enabled",
       "component": "enabled",
-      "sutro": "enabled",
-      "presidio": "disabled",
-      "baker": "disabled"
+      "sutro": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -628,9 +624,7 @@
     "selectedTokenSets": {
       "component": "enabled",
       "fort_point": "enabled",
-      "global": "enabled",
-      "presidio": "disabled",
-      "baker": "disabled"
+      "global": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -640,8 +634,7 @@
     "selectedTokenSets": {
       "global": "enabled",
       "component": "enabled",
-      "presidio": "enabled",
-      "baker": "disabled"
+      "presidio": "enabled"
     },
     "$figmaStyleReferences": {}
   },
