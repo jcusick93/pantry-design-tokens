@@ -5,7 +5,9 @@
     "selectedTokenSets": {
       "global": "enabled",
       "golden_gate": "enabled",
-      "component": "enabled"
+      "component": "enabled",
+      "presidio": "disabled",
+      "baker": "disabled"
     },
     "$figmaStyleReferences": {
       "color.button.filled.background.default": "S:b7e0aaa2afcadae5d7780bccf2b9dfb04c6b282c,",
@@ -614,7 +616,9 @@
     "selectedTokenSets": {
       "global": "enabled",
       "component": "enabled",
-      "sutro": "enabled"
+      "sutro": "enabled",
+      "presidio": "disabled",
+      "baker": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -624,7 +628,30 @@
     "selectedTokenSets": {
       "component": "enabled",
       "fort_point": "enabled",
-      "global": "enabled"
+      "global": "enabled",
+      "presidio": "disabled",
+      "baker": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "e56374321c20f92f8edec62105a2352f6e05fbc5",
+    "name": "Presidio",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "component": "enabled",
+      "presidio": "enabled",
+      "baker": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "48ac0fb67508d10ddd0c8f84531b64d4da6e416e",
+    "name": "Baker",
+    "selectedTokenSets": {
+      "global": "enabled",
+      "component": "enabled",
+      "baker": "enabled"
     },
     "$figmaStyleReferences": {}
   }

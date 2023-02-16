@@ -1,0 +1,320 @@
+{
+  "pds": {
+    "theme": {
+      "opacity": {
+        "default": {
+          "value": "{pds.global.opacity.0}",
+          "type": "opacity"
+        },
+        "hover": {
+          "value": "{pds.global.opacity.10}",
+          "type": "opacity"
+        },
+        "pressed": {
+          "value": "{pds.global.opacity.20}",
+          "type": "opacity"
+        },
+        "disabled": {
+          "value": "{pds.global.opacity.50}",
+          "type": "opacity"
+        }
+      },
+      "color": {
+        "background": {
+          "primary": {
+            "value": "{pds.global.color.brand.baker.70}",
+            "type": "color"
+          },
+          "sunken": {
+            "value": "{pds.global.color.general.grey.10}",
+            "type": "color"
+          },
+          "baseline": {
+            "value": "{pds.global.color.general.white.a100}",
+            "type": "color"
+          },
+          "basline_inverse": {
+            "value": "{pds.global.color.general.grey.90}",
+            "type": "color"
+          },
+          "raised": {
+            "value": "{pds.global.color.general.white.a100}",
+            "type": "color"
+          },
+          "raised_inverse": {
+            "value": "{pds.global.color.general.grey.80}",
+            "type": "color"
+          },
+          "overlay": {
+            "value": "{pds.global.color.general.white.a100}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{pds.global.color.general.red.10}",
+            "type": "color"
+          },
+          "error_inverse": {
+            "value": "{pds.global.color.general.red.60}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{pds.global.color.general.yellow.10}",
+            "type": "color"
+          },
+          "warning_inverse": {
+            "value": "{pds.global.color.general.yellow.50}",
+            "type": "color"
+          },
+          "positive": {
+            "value": "{pds.global.color.general.green.10}",
+            "type": "color"
+          },
+          "positive_inverse": {
+            "value": "{pds.global.color.general.green.60}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{pds.global.color.general.blue.10}",
+            "type": "color"
+          },
+          "info_inverse": {
+            "value": "{pds.global.color.general.blue.60}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{pds.global.color.general.grey.40}",
+            "type": "color"
+          }
+        },
+        "foreground": {
+          "primary": {
+            "value": "{pds.global.color.brand.baker.70}",
+            "type": "color"
+          },
+          "on_primary": {
+            "value": "{pds.global.color.general.white.a100}",
+            "type": "color"
+          },
+          "neutral_high": {
+            "value": "{pds.global.color.general.grey.90}",
+            "type": "color"
+          },
+          "neutral_high_inverse": {
+            "value": "{pds.global.color.general.white.a100}",
+            "type": "color"
+          },
+          "neutral_medium": {
+            "value": "{pds.global.color.general.grey.70}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{pds.global.color.general.red.60}",
+            "type": "color"
+          },
+          "error_inverse": {
+            "value": "{pds.global.color.general.red.30}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{pds.global.color.general.yellow.70}",
+            "type": "color"
+          },
+          "warning_inverse": {
+            "value": "{pds.global.color.general.yellow.30}",
+            "type": "color"
+          },
+          "positive": {
+            "value": "{pds.global.color.general.green.60}",
+            "type": "color"
+          },
+          "positive_inverse": {
+            "value": "{pds.global.color.general.green.30}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{pds.global.color.general.blue.60}",
+            "type": "color"
+          },
+          "info_inverse": {
+            "value": "{pds.global.color.general.blue.30}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{pds.global.color.general.grey.40}",
+            "type": "color"
+          }
+        },
+        "outline": {
+          "primary": {
+            "value": "{pds.global.color.brand.baker.70}",
+            "type": "color"
+          },
+          "neutral_high": {
+            "value": "{pds.global.color.general.grey.90}",
+            "type": "color"
+          },
+          "neutral_high_inverse": {
+            "value": "{pds.global.color.general.white.a100}",
+            "type": "color"
+          },
+          "neutral_medium": {
+            "value": "{pds.global.color.general.grey.70}",
+            "type": "color"
+          },
+          "neutral_low": {
+            "value": "{pds.global.color.general.grey.30}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{pds.global.color.general.red.60}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{pds.global.color.general.yellow.70}",
+            "type": "color"
+          },
+          "positive": {
+            "value": "{pds.global.color.general.green.60}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{pds.global.color.general.blue.60}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{pds.global.color.general.grey.40}",
+            "type": "color"
+          }
+        }
+      },
+      "shadow": {
+        "lowest": {
+          "bottom": {
+            "value": {
+              "x": "{pds.global.shadow.100.bottom.x}",
+              "y": "{pds.global.shadow.100.bottom.y}",
+              "blur": "{pds.global.shadow.100.bottom.blur}",
+              "spread": "{pds.global.shadow.100.bottom.spread}",
+              "color": "{pds.global.color.general.black.a10}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "buttons, cards"
+          }
+        },
+        "low": {
+          "bottom": {
+            "value": {
+              "x": "{pds.global.shadow.200.bottom.x}",
+              "y": "{pds.global.shadow.200.bottom.y}",
+              "blur": "{pds.global.shadow.200.bottom.blur}",
+              "spread": "{pds.global.shadow.200.bottom.spread}",
+              "color": "{pds.global.color.general.black.a10}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "top bar"
+          },
+          "top": {
+            "value": {
+              "x": "{pds.global.shadow.200.top.x}",
+              "y": "{pds.global.shadow.200.top.y}",
+              "blur": "{pds.global.shadow.200.top.blur}",
+              "spread": "{pds.global.shadow.200.top.spread}",
+              "color": "{pds.global.color.general.black.a10}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "Bottom nav bar, fixed buttons"
+          }
+        },
+        "medium": {
+          "bottom": {
+            "value": {
+              "x": "{pds.global.shadow.300.bottom.x}",
+              "y": "{pds.global.shadow.300.bottom.y}",
+              "blur": "{pds.global.shadow.300.bottom.blur}",
+              "spread": "{pds.global.shadow.300.bottom.spread}",
+              "color": "{pds.global.color.general.black.a10}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "toast, tooltip, dropdown "
+          }
+        },
+        "high": {
+          "bottom": {
+            "value": {
+              "x": "{pds.global.shadow.400.bottom.x}",
+              "y": "{pds.global.shadow.400.bottom.y}",
+              "blur": "{pds.global.shadow.400.bottom.blur}",
+              "spread": "{pds.global.shadow.400.bottom.spread}",
+              "color": "{pds.global.color.general.black.a10}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "modal (web)"
+          },
+          "top": {
+            "value": {
+              "x": "{pds.global.shadow.400.top.x}",
+              "y": "{pds.global.shadow.400.top.y}",
+              "blur": "{pds.global.shadow.400.top.blur}",
+              "spread": "{pds.global.shadow.400.top.spread}",
+              "color": "{pds.global.color.general.black.a10}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "Sheets"
+          },
+          "left": {
+            "value": {
+              "x": "{pds.global.shadow.400.left.x}",
+              "y": "{pds.global.shadow.400.left.y}",
+              "blur": "{pds.global.shadow.400.left.blur}",
+              "spread": "{pds.global.shadow.400.left.spread}",
+              "color": "{pds.global.color.general.black.a10}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "drawer"
+          },
+          "right": {
+            "value": {
+              "x": "{pds.global.shadow.400.right.x}",
+              "y": "{pds.global.shadow.400.right.y}",
+              "blur": "{pds.global.shadow.400.right.blur}",
+              "spread": "{pds.global.shadow.400.right.spread}",
+              "color": "{pds.global.color.general.black.a10}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "drawer"
+          }
+        }
+      },
+      "border_radius": {
+        "none": {
+          "value": "{pds.global.border_radius.0}",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{pds.global.border_radius.4}",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{pds.global.border_radius.12}",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{pds.global.border_radius.16}",
+          "type": "borderRadius"
+        },
+        "full": {
+          "value": "{pds.global.border_radius.9999}",
+          "type": "borderRadius"
+        }
+      }
+    }
+  }
+}
