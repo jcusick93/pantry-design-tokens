@@ -4,9 +4,9 @@ This repository contains design tokens for the Pantry Design System. The design 
 ## Usage
 The design tokens in this repository are organized into three layers of abstraction:
 
-1. Global Tokens: This layer includes global design tokens that are used across the entire product, such as typography and spacing.
-2. Theme Tokens: This layer includes design tokens that are specific to each theme in the Pantry product. There are five themes: Sutro, Golden Gate, Fort Point, Presidio, and Baker.
-3. Component Tokens: This layer includes design tokens that are specific to individual components in the Pantry product, such as buttons or cards.
+1. **Global Tokens**: This layer includes global design tokens that are used across the entire product, such as typography and spacing.
+2. **Theme Tokens**: This layer includes design tokens that are specific to each theme in the Pantry product. There are five themes: Sutro, Golden Gate, Fort Point, Presidio, and Baker.
+3. **Component Tokens**: This layer includes design tokens that are specific to individual components in the Pantry product, such as buttons or cards.
 The design tokens in this repository are synced with a local Figma file using the Tokens Studio plugin. This allows designers and developers to reference the same design tokens throughout the design and development process, ensuring consistency and reducing the potential for errors.
 
 ## Contributing
