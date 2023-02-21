@@ -1,3 +1,8 @@
+![logo-dark-mode](https://user-images.githubusercontent.com/37253884/220417292-c70f1c7e-7b7c-401c-ad02-a57a10355216.svg#gh-dark-mode-only)
+![logo-light-mode](https://user-images.githubusercontent.com/37253884/220417532-ceb1167b-744c-4295-89d2-4a392e936a39.svg#gh-light-mode-only)
+
+
+
 # Pantry Design Tokens
 This repository contains design tokens for the Pantry Design System. The design tokens are defined using the [Tokens Studio Figma plugin](https://www.figma.com/community/plugin/843461159747178978/Tokens-Studio-for-Figma-(Figma-Tokens)) and are used to ensure consistent and coherent design throughout Albertsons products.
 
