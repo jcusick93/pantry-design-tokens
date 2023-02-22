@@ -9,9 +9,12 @@ This repository contains design tokens for the Pantry Design System. The design 
 ## Usage
 The design tokens in this repository are organized into three layers of abstraction:
 
-1. **Global Tokens**: This layer includes global design tokens that are used across the entire product, such as typography and spacing.
-2. **Theme Tokens**: This layer includes design tokens that are specific to each theme in the Pantry product. There are five themes: Sutro, Golden Gate, Fort Point, Presidio, and Baker.
-3. **Component Tokens**: This layer includes design tokens that are specific to individual components in Albertsons products, such as buttons or cards.
+1. **Global Tokens**: Global tokens, represented by context-agnostic names, are the primitive values in our design language. They include color palette, animation, typography, and dimension values, and are inherited by all other token types.
+2. **Theme Tokens**: Theme tokens are tokens that can be customized for a specific context or abstraction. They serve to communicate the intended purpose of a token and are especially useful for values that appear in multiple places with a single intent. Except for the `disabled` case, they are state-agnostic.
+3. **Component Tokens**: This layer includes tokens that are specific to individual components in Albertsons products, such as buttons or cards.
+
+The definitions above are a blend of design token concepts from [Spectrum](https://spectrum.adobe.com/page/design-tokens/) and [Material](https://m3.material.io/foundations/design-tokens/how-to-read-tokens), as well as our own unique approach.
+
 The design tokens in this repository are synced with a local Figma file using the Tokens Studio plugin. This allows designers and developers to reference the same design tokens throughout the design and development process, ensuring consistency and reducing the potential for errors.
 
 ## Contributing
