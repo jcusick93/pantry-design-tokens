@@ -638,7 +638,24 @@
       "pds.global.shadow.400.right.x": "S:ede6dfa5ba2b97ce9690269739f94940c6a7e374,",
       "pds.global.shadow.400.right.y": "S:e7106e04575ea6d7e3e5978a3df92299af48177b,",
       "pds.global.shadow.400.right.blur": "S:4d633f250000c2ee11c0a2661bf3b780db275b61,",
-      "pds.global.shadow.400.right.spread": "S:a8e9b6382931c89d4b623f5c449a91f19df31e5d,"
+      "pds.global.shadow.400.right.spread": "S:a8e9b6382931c89d4b623f5c449a91f19df31e5d,",
+      "local.heading.XXS": "S:64d5bf18992b34f5e95f596055149b57e2660540,",
+      "local.heading.XS": "S:05a13e06d1ef7ad78a23ce127e77ee7f8fc460dc,",
+      "local.heading.S": "S:d6cf22f898d02878a7aa5eae3c7889e056f3a5e3,",
+      "local.heading.M": "S:ca4f89b657b8919a4a52368f5286742b178afe52,",
+      "local.heading.L": "S:d22f949be1132cea79933645ab2ab2023afdeca0,",
+      "local.text.S (regular)": "S:73348412d4236560dd7da7e9df7f843a4b8a4aa2,",
+      "local.text.S (semi bold)": "S:1df59982e171af92888f52e3c6315cdd807fd906,",
+      "local.text.S (bold)": "S:95efd174da224b85ba01e2a0efe7cad5477416d5,",
+      "local.text.M (regular)": "S:ee1dfd620ce078eb562d1b9152e94da19e617caf,",
+      "local.text.M (semi bold)": "S:d3730080d392a2e881cddb62d76d10e70968a387,",
+      "local.text.M (bold)": "S:ce2997c77421cb815f8e025d40bddc74fc332982,",
+      "local.text.L (regular)": "S:99a4d340759714df7e8e99aeb3a048f47f8b0b90,",
+      "local.text.L (semi bold)": "S:ba090b63b6a680e5e65066a0d9309d031d358588,",
+      "local.text.L (bold)": "S:1fb26385b4372b987fe16dd719a820a7875d8024,",
+      "local.link.S": "S:a3b62e9a34823a83d052f0e258d53577685cc940,",
+      "local.link.M": "S:aa3c30299360ab7a73e8d4fd36dfdf56691d7557,",
+      "local.link.L": "S:a5e5b2c28c6dd170974f3327820fe5a106a704f5,"
     }
   },
   {
